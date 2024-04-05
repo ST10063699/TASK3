@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619115731689",
+    "project_id": "ice-task-3-64e96",
+    "storage_bucket": "ice-task-3-64e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619115731689:android:93f0d7c14ccfc37a5aee78",
+        "android_client_info": {
+          "package_name": "com.example.task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4WxXPJWNP6couNJdwZ0NuVneEaPyGQ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
